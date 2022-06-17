@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[-](https://github.com/wjzhlo/wjzhlo.github.io)  [博客主页](https://wjzhlo.github.io)
+[-](https://github.com/wjzhlo/wjzhlo.github.io)  [归档主页](https://wjzhlo.github.io)
