@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好，世界 👋
 
 <!--
 **wjzhlo/wjzhlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[-](https://github.com/wjzhlo/wjzhlo.github.io)  [博客主页](https://wjzhlo.github.io)
